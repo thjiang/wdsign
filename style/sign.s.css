@@ -256,9 +256,8 @@ body {
 
 .o2_main {
     position: fixed;
-    top: 50%;
+    top: 50px;
     left: 50%;
-    margin-top: -450px;
     margin-left: -455px;
     padding: 50px 100px 25px 100px;
     background: #fff;
